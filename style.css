@@ -1,0 +1,45 @@
+html{
+    font-family: 'roboto', Arial, Helvetica, sans-serif;
+}
+
+body{
+    display: flex;
+    flex-direction: column;
+}
+
+a{
+    text-decoration: none;
+}
+
+ul{
+    list-style-type: none;
+}
+
+.topSec{
+    background-color: #1F2937;
+    padding-right: 150px;
+    padding-left: 150px;
+}
+
+.header{
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+ul.headerLink{
+    display: flex;
+    gap: 15px;
+}
+
+.headerLink a {
+    color: #F9FAF8;
+    font-weight: 300;
+}
+
+.headerLogo{
+    font-weight: 900;
+    font-size: 24px;
+    color: #F9FAF8;
+}

@@ -69,8 +69,6 @@ ul.headerLink{
 
 .awesome {
     width: 550px;
-    display: flex;
-    flex-direction: column;
 }
 
 .subtext {
@@ -92,14 +90,14 @@ ul.headerLink{
     background-color: #3882f6;
     border: none;
     color: #F9FAF8;
-    padding: 10px 20px;
+    padding: 10px 40px;
     text-align: center;
     text-decoration: none;
     font-size: 15px;
     justify-content: flex-start;
     margin-top: 30px;
-    margin-right: 430px;
     border-radius: 8px;
+    cursor: pointer;
 }
 /*--------------------- END TOP SECTION --------------------------*/
 
@@ -193,6 +191,7 @@ ul.headerLink{
     font-size: 15px;
     border-radius: 8px;
     margin-right: 50px;
+    cursor: pointer;
 }
 
 .footer {

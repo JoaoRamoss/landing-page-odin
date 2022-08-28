@@ -194,3 +194,17 @@ ul.headerLink{
     border-radius: 8px;
     margin-right: 50px;
 }
+
+.footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex: 1;
+    background-color: #1F2937;
+    padding: 25px;
+}
+
+.copy {
+    color: #F9FAF8;
+    font-weight: 300;
+}

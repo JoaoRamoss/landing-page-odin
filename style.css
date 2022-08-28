@@ -103,6 +103,7 @@ ul.headerLink{
     display: flex;
     flex-direction: column;
     align-items: center;
+    margin-bottom: 80px;
 }
 
 .information{
@@ -125,7 +126,7 @@ ul.headerLink{
     height: 150px;
     border-radius: 10px;
 }
-.text {
+.info .text {
     text-align: center;
     margin-top: 10px;
     font-size: 15px;
@@ -135,3 +136,24 @@ ul.headerLink{
 }
 
 /*--------------------- END SECOND SECTION --------------------------*/
+
+/*--------------------- THIRD SECTION --------------------------*/
+.thirdSec{
+    display: flex;
+    flex-direction: column;
+    background-color: #E5E7EB;
+    padding: 100px 350px;
+}
+
+.quote {
+    font-size: 36px;    
+    font-weight: lighter;
+    font-style: italic;
+    color: #1F2937;
+}
+
+.author {
+    margin-top: 35px;
+    text-align: end;
+    color: #293546;
+}

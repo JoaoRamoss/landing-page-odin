@@ -162,3 +162,35 @@ ul.headerLink{
     text-align: end;
     color: #293546;
 }
+
+/*--------------------- END THIRD SECTION --------------------------*/
+
+/*--------------------- FOURTH SECTION --------------------------*/
+
+.fourthSec {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #3882f6;
+    margin: 100px 300px;
+    padding: 30px 100px;
+    border-radius: 10px;
+}
+
+.action {
+    font-weight: 900;
+    font-size: 24px;
+    color: #F9FAF8;
+}
+
+.fourthSec button {
+    background-color: #3882f6;
+    border: 2px solid white;
+    color: #F9FAF8;
+    padding: 10px 40px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 15px;
+    border-radius: 8px;
+    margin-right: 50px;
+}
